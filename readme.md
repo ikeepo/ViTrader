@@ -84,8 +84,3 @@ build/MacOSX目录下，执行make，或打开xcode工程编译。
 - 一次下单N手：数值+i，如先按5，再按i，表示报入5手。
 - 大多数命令都可以这么用：数值+操作
 
-### QQ交流群：127235179
-
-### 更多信息请关注公众号：
-
-<img src="https://user-images.githubusercontent.com/83346523/232570983-e28ce360-eb78-4aad-8a72-abebe288538a.png" alt="openctp公众号" width="300" height="350" />
